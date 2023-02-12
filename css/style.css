@@ -1,7 +1,8 @@
 body{
-    background: hsla(296, 100%, 6%, 1);
+    /* background: hsla(296, 100%, 6%, 1);
     background: linear-gradient(90deg, hsla(296, 100%, 6%, 1) 0%, hsla(5, 90%, 24%, 1) 100%);
-    
+     */
+     background-color: teal;
 }
 
 
