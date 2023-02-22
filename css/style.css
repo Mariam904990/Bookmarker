@@ -1,8 +1,8 @@
-body{
-    /* background: hsla(296, 100%, 6%, 1);
+body {
+    background: hsla(296, 100%, 6%, 1);
     background: linear-gradient(90deg, hsla(296, 100%, 6%, 1) 0%, hsla(5, 90%, 24%, 1) 100%);
-     */
-     background-color: tomato;
+
+
 }
 
 
@@ -10,20 +10,20 @@ body{
     background-color: rgba(0 0 0 / 0.2);
     color: #fff;
     backdrop-filter: blur(3px);
- }
- 
- .form-control:focus {
+}
+
+.form-control:focus {
     box-shadow: 0 0 0 4px #3f9ec39a;
     caret-color: #2f6f88;
- }
- 
- .btn-primary {
+}
+
+.btn-primary {
     --bs-btn-bg: #3f9ec39a;
     --bs-btn-border-color: rgba(26, 82, 104, 0.836);
     --bs-btn-hover-bg: #3f9ec3b6;
- }
- 
- .table-responsive {
+}
+
+.table-responsive {
     max-height: 30vh;
     overflow: auto !important;
- }
+}
